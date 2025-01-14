@@ -1,0 +1,67 @@
+%flex1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.pack1 {
+    background: url(../images/girl_pic.png);
+    padding-left: 90px;
+    padding-right: 901px;
+    padding-top: 259px;
+    padding-bottom: 27px;
+
+
+    .texts1-pack1 {
+        margin-bottom: 150px;
+
+        .text1-pack1 {
+            color: rgb(156, 36, 130);
+            font-family: Playfair Display;
+            font-size: 54px;
+            font-weight: 700;
+            width: 609px;
+            height: 85.71px;
+            margin-bottom: 20px;
+        }
+
+        .text2-pack1 {
+            color: rgb(82, 72, 72);
+            font-family: Montserrat;
+            font-size: 16px;
+            font-weight: 400;
+            width: 459px;
+            height: 51px;
+            margin-bottom: 19px;
+        }
+
+        .button1-pack1 {
+            width: 268.47px;
+            height: 53.23px;
+            width: 268.47px;
+            height: 53.23px;
+            border: none;
+            color: rgb(245, 245, 245);
+            font-family: Montserrat;
+            font-size: 18px;
+            font-weight: 700;
+            background: rgb(156, 36, 130);
+        }
+
+    }
+
+    .buttons1-pack1 {
+        @extend %flex1;
+        width: 288px;
+        justify-content: space-between;
+
+        .buts1 {
+            text-decoration: none;
+            color: rgb(82, 72, 72);
+            font-family: Montserrat;
+            font-size: 16px;
+            font-weight: 700;
+            border: none;
+            background: none;
+        }
+    }
+}

@@ -1,0 +1,23 @@
+@import './header';
+@import './pack1';
+@import './pack2';
+@import './pack3';
+@import './pack4';
+@import './pack5';
+@import './pack6';
+@import './pack7';
+@import './pack8';
+@import './pack9';
+@import './footer';
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1600px;
+    margin: 0 auto;
+    height: auto;
+    background: rgb(245, 245, 245);
+}

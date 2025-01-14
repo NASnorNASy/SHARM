@@ -1,0 +1,107 @@
+%flex1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.pack5 {
+    .text1-pack5 {
+        color: rgb(156, 36, 130);
+        font-family: Playfair Display;
+        font-size: 40px;
+        font-weight: 700;
+        margin-top: 88px;
+        margin-left: 607px;
+        width: 348px;
+        height: 64px;
+        margin-bottom: 25px;
+    }
+
+    .buttons-row {
+        @extend %flex1;
+        width: 1115px;
+        height: 38px;
+        justify-content: space-between;
+        margin-left: 242px;
+        margin-bottom: 15px;
+
+        .b-row1 {
+            color: rgb(18, 18, 18);
+            font-family: Montserrat;
+            font-size: 24px;
+            font-weight: 700;
+            background: none;
+            border: none;
+        }
+
+        .b-row {
+            color: rgb(82, 72, 72);
+            font-family: Montserrat;
+            font-size: 24px;
+            font-weight: 700;
+            background: none;
+            border: none;
+        }
+    }
+
+    .cont1-pack5 {
+        @extend %flex1;
+
+        .arrow-left2 {
+            border: none;
+            background: none;
+            margin-left: 90px;
+            margin-right: 47px;
+        }
+
+        .box1 {
+            width: 400px;
+            height: 431px;
+
+        }
+
+        .box2 {
+            margin-left: 39px;
+            margin-right: 39px;
+            width: 400px;
+            height: 431px;
+        }
+
+        .box3 {
+            width: 400px;
+            height: 431px;
+        }
+
+        .person-pic {
+            margin-left: 50px;
+            margin-right: 50px;
+            width: 300px;
+            height: 300px;
+            margin-bottom: 10px;
+        }
+
+        .text1-box {
+            margin-left: 140px;
+            margin-bottom: 5px;
+            color: rgb(156, 36, 130);
+            font-family: Montserrat;
+            font-size: 18px;
+            font-weight: 700;
+        }
+
+        .text2-box {
+            color: rgb(82, 72, 72);
+            font-family: Montserrat;
+            font-size: 18px;
+            font-weight: 700;
+            width: 400px;
+            height: 87px;
+            text-align: center;
+        }
+
+        .arrow-right2 {
+            border: none;
+            background: none;
+            margin-left: 65px;
+        }
+    }
+}

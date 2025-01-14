@@ -1,0 +1,46 @@
+%flex1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.pack7 {
+    .text1-pack7 {
+        color: rgb(156, 36, 130);
+        font-family: Playfair Display;
+        font-size: 40px;
+        font-weight: 700;
+        height: 64px;
+        margin-top: 85px;
+        margin-left: 519px;
+        margin-bottom: 44px;
+    }
+
+    .cont1-pack7 {
+        @extend %flex1;
+        margin-bottom: 137px;
+
+        .arrow-left3 {
+            border: none;
+            background: none;
+            margin-left: 90px;
+            margin-right: 45px;
+        }
+
+        .picture1-pack7 {
+            width: 640px;
+            height: 240px;
+        }
+
+        .picture2-pack7 {
+            width: 640px;
+            height: 240px;
+            margin-left: 20px;
+        }
+
+        .arrow-right3 {
+            border: none;
+            background: none;
+            margin-left: 45px;
+        }
+    }
+}

@@ -1,0 +1,77 @@
+%flex1 {
+    display: flex;
+    flex-direction: row;
+}
+
+@mixin a-s($width1, $height1, $pad1) {
+    color: rgb(245, 245, 245);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    width: $width1;
+    height: $height1;
+    padding-right: $pad1;
+    text-decoration: none;
+}
+
+.header-line {
+    background-color: rgb(156, 36, 130);
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    @extend %flex1;
+
+    .logo-pics {
+        @extend %flex1;
+        padding-right: 132px;
+
+        .logo-lilia {
+            width: 90px;
+            height: 49.99px;
+            background: none;
+            border: none;
+            margin-right: 10px;
+        }
+
+        .logo-name {
+            width: 110px;
+            height: 50.99px;
+            background: none;
+            border: none;
+        }
+    }
+
+    .header-buttons {
+        @extend %flex1;
+        padding-top: 14px;
+        padding-right: 133px;
+
+        .button-h1 {
+            @include a-s(70px, 26px, 63px);
+        }
+
+        .button-h2 {
+            @include a-s(72.99px, 25.52px, 64px);
+        }
+
+        .button-h3 {
+            @include a-s(127.98px, 25.52px, 64px);
+        }
+
+        .button-h4 {
+            @include a-s(67.99px, 25.52px, 64px);
+        }
+
+        .button-h5 {
+            @include a-s(81.99px, 25.52px, none);
+        }
+    }
+
+    .header-phone {
+        .phone-number {
+            width: 268px;
+            height: 53.99px;
+        }
+    }
+}

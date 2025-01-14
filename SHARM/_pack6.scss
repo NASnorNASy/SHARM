@@ -1,0 +1,74 @@
+%flex1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.pack6 {
+    .text1-pack6 {
+        color: rgb(156, 36, 130);
+        font-family: Playfair Display;
+        font-size: 40px;
+        font-weight: 700;
+        margin-left: 480px;
+        margin-top: 71px;
+        margin-bottom: 23.5px;
+        width: 730px;
+        height: 64px;
+    }
+
+    .boxes2 {
+        @extend %flex1;
+        margin-left: 90px;
+        margin-bottom: 60px;
+
+        .boxs {
+            width: 700px;
+            height: 648px;
+            margin-right: 20px;
+        }
+    }
+
+    .hr2 {
+        border: 1px solid rgb(156, 36, 130);
+    }
+
+    .box-text1 {
+        width: 579px;
+        height: 61px;
+        color: rgb(18, 18, 18);
+        font-family: Montserrat;
+        font-size: 24px;
+        font-weight: 700;
+        margin-top: 29px;
+    }
+
+    .box-text2 {
+        color: rgb(82, 72, 72);
+        font-family: Montserrat;
+        font-size: 19px;
+        font-weight: 400;
+        margin-top: 15px;
+        width: 640px;
+        height: 130px;
+        margin-bottom: 20px;
+    }
+
+    .box-picture {
+        width: 700px;
+        height: 380px;
+    }
+
+    .button-pack6 {
+        width: 222px;
+        height: 54.07px;
+        margin-left: 690px;
+        width: 222px;
+        height: 54.07px;
+        color: rgb(245, 245, 245);
+        font-family: Montserrat;
+        font-size: 25px;
+        font-weight: 700;
+        border: none;
+        background: rgb(156, 36, 130);
+    }
+}

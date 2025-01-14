@@ -1,0 +1,87 @@
+%flex1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.pack4 {
+    margin-top: 112px;
+
+    .text1-pack4 {
+        color: rgb(156, 36, 130);
+        font-family: Playfair Display;
+        font-size: 40px;
+        font-weight: 700;
+        width: 203px;
+        height: 64px;
+        margin-bottom: 24px;
+        margin-left: 698px;
+    }
+
+    .cont1-pack4 {
+        @extend %flex1;
+
+        .arrow-left1 {
+            border: none;
+            background: none;
+            margin-left: 90px;
+            margin-right: 60px;
+        }
+
+        .picture1-pack4 {
+            width: 513px;
+            height: 400px;
+        }
+
+        .contain1 {
+            margin-left: 30px;
+
+            .t1-cont1 {
+                color: rgb(18, 18, 18);
+                font-family: Montserrat;
+                font-size: 24px;
+                font-weight: 700;
+                width: 75px;
+                height: 38px;
+                margin-bottom: 30px;
+            }
+
+            .t2-cont1 {
+                width: 603px;
+                height: 116px;
+                color: rgb(82, 72, 72);
+                font-family: Montserrat;
+                font-size: 19px;
+                font-weight: 400;
+                margin-bottom: 30px;
+            }
+
+            .contain2 {
+                @extend %flex1;
+
+                .b-cont1 {
+                    background: rgb(156, 36, 130);
+                    width: 290px;
+                    height: 67px;
+                    color: rgb(245, 245, 245);
+                    font-family: Montserrat;
+                    font-size: 21px;
+                    font-weight: 700;
+                    border: none;
+                }
+
+                .p-cont1 {
+                    margin-top: 4px;
+                    margin-left: 134px;
+                    width: 288px;
+                    height: 204.11px;
+                }
+            }
+        }
+
+        .arrow-right1 {
+            border: none;
+            background: none;
+            margin-left: 60px;
+        }
+    }
+}

@@ -1,0 +1,827 @@
+.footer-line .media, .footer-line .footer-buttons, .footer-line .logo-pics, .footer-line, .pack9 .row2, .pack9 .turn2, .pack8 .turn, .pack8, .pack7 .cont1-pack7, .pack6 .boxes2, .pack5 .cont1-pack5, .pack5 .buttons-row, .pack4 .cont1-pack4 .contain1 .contain2, .pack4 .cont1-pack4, .pack3 .texts-row, .pack3 .words-row, .pack3 .pictures-row, .pack2 .cont1-pack2, .pack1 .buttons1-pack1, .header-line .header-buttons, .header-line .logo-pics, .header-line {
+  display: flex;
+  flex-direction: row;
+}
+
+.header-line {
+  background-color: rgb(156, 36, 130);
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+.header-line .logo-pics {
+  padding-right: 132px;
+}
+.header-line .logo-pics .logo-lilia {
+  width: 90px;
+  height: 49.99px;
+  background: none;
+  border: none;
+  margin-right: 10px;
+}
+.header-line .logo-pics .logo-name {
+  width: 110px;
+  height: 50.99px;
+  background: none;
+  border: none;
+}
+.header-line .header-buttons {
+  padding-top: 14px;
+  padding-right: 133px;
+}
+.header-line .header-buttons .button-h1 {
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  width: 70px;
+  height: 26px;
+  padding-right: 63px;
+  text-decoration: none;
+}
+.header-line .header-buttons .button-h2 {
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  width: 72.99px;
+  height: 25.52px;
+  padding-right: 64px;
+  text-decoration: none;
+}
+.header-line .header-buttons .button-h3 {
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  width: 127.98px;
+  height: 25.52px;
+  padding-right: 64px;
+  text-decoration: none;
+}
+.header-line .header-buttons .button-h4 {
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  width: 67.99px;
+  height: 25.52px;
+  padding-right: 64px;
+  text-decoration: none;
+}
+.header-line .header-buttons .button-h5 {
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  width: 81.99px;
+  height: 25.52px;
+  padding-right: none;
+  text-decoration: none;
+}
+.header-line .header-phone .phone-number {
+  width: 268px;
+  height: 53.99px;
+}
+
+.footer-line .media, .footer-line .footer-buttons, .footer-line .logo-pics, .footer-line, .pack9 .row2, .pack9 .turn2, .pack8 .turn, .pack8, .pack7 .cont1-pack7, .pack6 .boxes2, .pack5 .cont1-pack5, .pack5 .buttons-row, .pack4 .cont1-pack4 .contain1 .contain2, .pack4 .cont1-pack4, .pack3 .texts-row, .pack3 .words-row, .pack3 .pictures-row, .pack2 .cont1-pack2, .pack1 .buttons1-pack1, .header-line, .header-line .logo-pics, .header-line .header-buttons {
+  display: flex;
+  flex-direction: row;
+}
+
+.pack1 {
+  background: url(../images/girl_pic.png);
+  padding-left: 90px;
+  padding-right: 901px;
+  padding-top: 259px;
+  padding-bottom: 27px;
+}
+.pack1 .texts1-pack1 {
+  margin-bottom: 150px;
+}
+.pack1 .texts1-pack1 .text1-pack1 {
+  color: rgb(156, 36, 130);
+  font-family: Playfair Display;
+  font-size: 54px;
+  font-weight: 700;
+  width: 609px;
+  height: 85.71px;
+  margin-bottom: 20px;
+}
+.pack1 .texts1-pack1 .text2-pack1 {
+  color: rgb(82, 72, 72);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  width: 459px;
+  height: 51px;
+  margin-bottom: 19px;
+}
+.pack1 .texts1-pack1 .button1-pack1 {
+  width: 268.47px;
+  height: 53.23px;
+  width: 268.47px;
+  height: 53.23px;
+  border: none;
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 700;
+  background: rgb(156, 36, 130);
+}
+.pack1 .buttons1-pack1 {
+  width: 288px;
+  justify-content: space-between;
+}
+.pack1 .buttons1-pack1 .buts1 {
+  text-decoration: none;
+  color: rgb(82, 72, 72);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+  background: none;
+}
+
+.footer-line .media, .footer-line .footer-buttons, .footer-line .logo-pics, .footer-line, .pack9 .row2, .pack9 .turn2, .pack8 .turn, .pack8, .pack7 .cont1-pack7, .pack6 .boxes2, .pack5 .cont1-pack5, .pack5 .buttons-row, .pack4 .cont1-pack4 .contain1 .contain2, .pack4 .cont1-pack4, .pack3 .texts-row, .pack3 .words-row, .pack3 .pictures-row, .pack2 .cont1-pack2, .header-line, .header-line .logo-pics, .header-line .header-buttons, .pack1 .buttons1-pack1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.pack2 {
+  padding-top: 97px;
+  padding-bottom: 106px;
+}
+.pack2 .text1-pack2 {
+  width: 185px;
+  height: 64px;
+  color: rgb(156, 36, 130);
+  font-family: Playfair Display;
+  font-size: 40px;
+  font-weight: 700;
+  padding-left: 699px;
+  padding-bottom: 30px;
+}
+.pack2 .cont1-pack2 {
+  padding-left: 90px;
+}
+.pack2 .cont1-pack2 .picture1-pack2 {
+  width: 909px;
+  height: 499px;
+  padding-right: 50px;
+}
+.pack2 .cont1-pack2 .text2-pack2 {
+  color: rgb(18, 18, 18);
+  font-family: Montserrat;
+  font-size: 29px;
+  font-weight: 700;
+  padding-bottom: 9px;
+}
+.pack2 .cont1-pack2 .text3-pack2 {
+  color: rgb(82, 72, 72);
+  font-family: Montserrat;
+  font-size: 22px;
+  font-weight: 400;
+  padding-bottom: 30px;
+}
+.pack2 .cont1-pack2 .button1-pack2 {
+  width: 222px;
+  height: 54.06px;
+  background: rgb(156, 36, 130);
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 19px;
+  font-weight: 700;
+  border: none;
+}
+
+.footer-line .media, .footer-line .footer-buttons, .footer-line .logo-pics, .footer-line, .pack9 .row2, .pack9 .turn2, .pack8 .turn, .pack8, .pack7 .cont1-pack7, .pack6 .boxes2, .pack5 .cont1-pack5, .pack5 .buttons-row, .pack4 .cont1-pack4 .contain1 .contain2, .pack4 .cont1-pack4, .pack3 .texts-row, .pack3 .words-row, .pack3 .pictures-row, .header-line, .header-line .logo-pics, .header-line .header-buttons, .pack1 .buttons1-pack1, .pack2 .cont1-pack2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.pack3 .text1-pack3 {
+  color: rgb(156, 36, 130);
+  font-family: Playfair Display;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  margin-left: 693px;
+}
+.pack3 .pictures-row .p-r1 {
+  margin-left: 270px;
+  margin-right: 234px;
+}
+.pack3 .pictures-row .p-r2 {
+  margin-left: 0px;
+  margin-right: 245px;
+}
+.pack3 .pictures-row .p-r3 {
+  margin-left: 0px;
+  margin-right: 284px;
+}
+.pack3 .lines {
+  border: 1px solid rgb(156, 36, 130);
+  margin-bottom: 20.5px;
+  margin-top: 20.5px;
+}
+.pack3 .words-row {
+  color: rgb(18, 18, 18);
+  font-family: Montserrat;
+  font-size: 28px;
+  font-weight: 500;
+}
+.pack3 .words-row .w-r1 {
+  margin-left: 263px;
+  margin-right: 228px;
+  width: 102px;
+  height: 38px;
+}
+.pack3 .words-row .w-r2 {
+  margin-left: 0px;
+  margin-right: 229px;
+  width: 53px;
+  height: 38px;
+}
+.pack3 .words-row .w-r3 {
+  margin-left: 0px;
+  margin-right: 229px;
+  width: 120px;
+  height: 38px;
+}
+.pack3 .words-row .w-r4 {
+  width: 134px;
+  height: 38px;
+}
+.pack3 .texts-row {
+  color: rgb(82, 72, 72);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+}
+.pack3 .texts-row .t-r1 {
+  margin-left: 160px;
+  margin-right: 48px;
+  width: 290px;
+  height: 78px;
+}
+.pack3 .texts-row .t-r2 {
+  margin-left: 0px;
+  margin-right: 48px;
+  width: 290px;
+  height: 104px;
+}
+.pack3 .texts-row .t-r3 {
+  margin-left: 0px;
+  margin-right: 48px;
+  width: 290px;
+  height: 78px;
+}
+.pack3 .texts-row .t-r4 {
+  width: 290px;
+  height: 104px;
+}
+
+.footer-line .media, .footer-line .footer-buttons, .footer-line .logo-pics, .footer-line, .pack9 .row2, .pack9 .turn2, .pack8 .turn, .pack8, .pack7 .cont1-pack7, .pack6 .boxes2, .pack5 .cont1-pack5, .pack5 .buttons-row, .pack4 .cont1-pack4 .contain1 .contain2, .pack4 .cont1-pack4, .header-line, .header-line .logo-pics, .header-line .header-buttons, .pack1 .buttons1-pack1, .pack2 .cont1-pack2, .pack3 .pictures-row, .pack3 .words-row, .pack3 .texts-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.pack4 {
+  margin-top: 112px;
+}
+.pack4 .text1-pack4 {
+  color: rgb(156, 36, 130);
+  font-family: Playfair Display;
+  font-size: 40px;
+  font-weight: 700;
+  width: 203px;
+  height: 64px;
+  margin-bottom: 24px;
+  margin-left: 698px;
+}
+.pack4 .cont1-pack4 .arrow-left1 {
+  border: none;
+  background: none;
+  margin-left: 90px;
+  margin-right: 60px;
+}
+.pack4 .cont1-pack4 .picture1-pack4 {
+  width: 513px;
+  height: 400px;
+}
+.pack4 .cont1-pack4 .contain1 {
+  margin-left: 30px;
+}
+.pack4 .cont1-pack4 .contain1 .t1-cont1 {
+  color: rgb(18, 18, 18);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  width: 75px;
+  height: 38px;
+  margin-bottom: 30px;
+}
+.pack4 .cont1-pack4 .contain1 .t2-cont1 {
+  width: 603px;
+  height: 116px;
+  color: rgb(82, 72, 72);
+  font-family: Montserrat;
+  font-size: 19px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+.pack4 .cont1-pack4 .contain1 .contain2 .b-cont1 {
+  background: rgb(156, 36, 130);
+  width: 290px;
+  height: 67px;
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 21px;
+  font-weight: 700;
+  border: none;
+}
+.pack4 .cont1-pack4 .contain1 .contain2 .p-cont1 {
+  margin-top: 4px;
+  margin-left: 134px;
+  width: 288px;
+  height: 204.11px;
+}
+.pack4 .cont1-pack4 .arrow-right1 {
+  border: none;
+  background: none;
+  margin-left: 60px;
+}
+
+.footer-line .media, .footer-line .footer-buttons, .footer-line .logo-pics, .footer-line, .pack9 .row2, .pack9 .turn2, .pack8 .turn, .pack8, .pack7 .cont1-pack7, .pack6 .boxes2, .pack5 .cont1-pack5, .pack5 .buttons-row, .header-line, .header-line .logo-pics, .header-line .header-buttons, .pack1 .buttons1-pack1, .pack2 .cont1-pack2, .pack3 .pictures-row, .pack3 .words-row, .pack3 .texts-row, .pack4 .cont1-pack4, .pack4 .cont1-pack4 .contain1 .contain2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.pack5 .text1-pack5 {
+  color: rgb(156, 36, 130);
+  font-family: Playfair Display;
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 88px;
+  margin-left: 607px;
+  width: 348px;
+  height: 64px;
+  margin-bottom: 25px;
+}
+.pack5 .buttons-row {
+  width: 1115px;
+  height: 38px;
+  justify-content: space-between;
+  margin-left: 242px;
+  margin-bottom: 15px;
+}
+.pack5 .buttons-row .b-row1 {
+  color: rgb(18, 18, 18);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  background: none;
+  border: none;
+}
+.pack5 .buttons-row .b-row {
+  color: rgb(82, 72, 72);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  background: none;
+  border: none;
+}
+.pack5 .cont1-pack5 .arrow-left2 {
+  border: none;
+  background: none;
+  margin-left: 90px;
+  margin-right: 47px;
+}
+.pack5 .cont1-pack5 .box1 {
+  width: 400px;
+  height: 431px;
+}
+.pack5 .cont1-pack5 .box2 {
+  margin-left: 39px;
+  margin-right: 39px;
+  width: 400px;
+  height: 431px;
+}
+.pack5 .cont1-pack5 .box3 {
+  width: 400px;
+  height: 431px;
+}
+.pack5 .cont1-pack5 .person-pic {
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 300px;
+  height: 300px;
+  margin-bottom: 10px;
+}
+.pack5 .cont1-pack5 .text1-box {
+  margin-left: 140px;
+  margin-bottom: 5px;
+  color: rgb(156, 36, 130);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 700;
+}
+.pack5 .cont1-pack5 .text2-box {
+  color: rgb(82, 72, 72);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 700;
+  width: 400px;
+  height: 87px;
+  text-align: center;
+}
+.pack5 .cont1-pack5 .arrow-right2 {
+  border: none;
+  background: none;
+  margin-left: 65px;
+}
+
+.footer-line .media, .footer-line .footer-buttons, .footer-line .logo-pics, .footer-line, .pack9 .row2, .pack9 .turn2, .pack8 .turn, .pack8, .pack7 .cont1-pack7, .pack6 .boxes2, .header-line, .header-line .logo-pics, .header-line .header-buttons, .pack1 .buttons1-pack1, .pack2 .cont1-pack2, .pack3 .pictures-row, .pack3 .words-row, .pack3 .texts-row, .pack4 .cont1-pack4, .pack4 .cont1-pack4 .contain1 .contain2, .pack5 .buttons-row, .pack5 .cont1-pack5 {
+  display: flex;
+  flex-direction: row;
+}
+
+.pack6 .text1-pack6 {
+  color: rgb(156, 36, 130);
+  font-family: Playfair Display;
+  font-size: 40px;
+  font-weight: 700;
+  margin-left: 480px;
+  margin-top: 71px;
+  margin-bottom: 23.5px;
+  width: 730px;
+  height: 64px;
+}
+.pack6 .boxes2 {
+  margin-left: 90px;
+  margin-bottom: 60px;
+}
+.pack6 .boxes2 .boxs {
+  width: 700px;
+  height: 648px;
+  margin-right: 20px;
+}
+.pack6 .hr2 {
+  border: 1px solid rgb(156, 36, 130);
+}
+.pack6 .box-text1 {
+  width: 579px;
+  height: 61px;
+  color: rgb(18, 18, 18);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 29px;
+}
+.pack6 .box-text2 {
+  color: rgb(82, 72, 72);
+  font-family: Montserrat;
+  font-size: 19px;
+  font-weight: 400;
+  margin-top: 15px;
+  width: 640px;
+  height: 130px;
+  margin-bottom: 20px;
+}
+.pack6 .box-picture {
+  width: 700px;
+  height: 380px;
+}
+.pack6 .button-pack6 {
+  width: 222px;
+  height: 54.07px;
+  margin-left: 690px;
+  width: 222px;
+  height: 54.07px;
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 25px;
+  font-weight: 700;
+  border: none;
+  background: rgb(156, 36, 130);
+}
+
+.footer-line .media, .footer-line .footer-buttons, .footer-line .logo-pics, .footer-line, .pack9 .row2, .pack9 .turn2, .pack8 .turn, .pack8, .pack7 .cont1-pack7, .header-line, .header-line .logo-pics, .header-line .header-buttons, .pack1 .buttons1-pack1, .pack2 .cont1-pack2, .pack3 .pictures-row, .pack3 .words-row, .pack3 .texts-row, .pack4 .cont1-pack4, .pack4 .cont1-pack4 .contain1 .contain2, .pack5 .buttons-row, .pack5 .cont1-pack5, .pack6 .boxes2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.pack7 .text1-pack7 {
+  color: rgb(156, 36, 130);
+  font-family: Playfair Display;
+  font-size: 40px;
+  font-weight: 700;
+  height: 64px;
+  margin-top: 85px;
+  margin-left: 519px;
+  margin-bottom: 44px;
+}
+.pack7 .cont1-pack7 {
+  margin-bottom: 137px;
+}
+.pack7 .cont1-pack7 .arrow-left3 {
+  border: none;
+  background: none;
+  margin-left: 90px;
+  margin-right: 45px;
+}
+.pack7 .cont1-pack7 .picture1-pack7 {
+  width: 640px;
+  height: 240px;
+}
+.pack7 .cont1-pack7 .picture2-pack7 {
+  width: 640px;
+  height: 240px;
+  margin-left: 20px;
+}
+.pack7 .cont1-pack7 .arrow-right3 {
+  border: none;
+  background: none;
+  margin-left: 45px;
+}
+
+.footer-line .media, .footer-line .footer-buttons, .footer-line .logo-pics, .footer-line, .pack9 .row2, .pack9 .turn2, .pack8 .turn, .pack8, .header-line, .header-line .logo-pics, .header-line .header-buttons, .pack1 .buttons1-pack1, .pack2 .cont1-pack2, .pack3 .pictures-row, .pack3 .words-row, .pack3 .texts-row, .pack4 .cont1-pack4, .pack4 .cont1-pack4 .contain1 .contain2, .pack5 .buttons-row, .pack5 .cont1-pack5, .pack6 .boxes2, .pack7 .cont1-pack7 {
+  display: flex;
+  flex-direction: row;
+}
+
+.pack8 .picture1-pack8 {
+  width: 772px;
+  height: 531.94px;
+  margin-left: 90px;
+  margin-right: 40px;
+}
+.pack8 .text1-pack8 {
+  color: rgb(156, 36, 130);
+  font-family: Playfair Display;
+  font-size: 36px;
+  font-weight: 700;
+  width: 627px;
+  height: 116px;
+  margin-bottom: 29px;
+}
+.pack8 .name {
+  width: 608px;
+  height: 42.99px;
+  color: rgb(18, 18, 18);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 400;
+  border: none;
+  border-bottom: 1px solid rgb(82, 72, 72);
+  margin-bottom: 30px;
+  background: none;
+}
+.pack8 .phone-number {
+  width: 608px;
+  height: 42.99px;
+  color: rgb(18, 18, 18);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 400;
+  border: none;
+  border-bottom: 1px solid rgb(82, 72, 72);
+  margin-bottom: 30px;
+  background: none;
+}
+.pack8 .needs {
+  width: 608px;
+  height: 42.99px;
+  color: rgb(18, 18, 18);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 400;
+  border: none;
+  border-bottom: 1px solid rgb(82, 72, 72);
+  margin-bottom: 30px;
+  background: none;
+}
+.pack8 .turn .date {
+  width: 280px;
+  height: 42.99px;
+  margin-right: 47px;
+  color: rgb(18, 18, 18);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 400;
+  border: none;
+  border-bottom: 1px solid rgb(82, 72, 72);
+  background: none;
+}
+.pack8 .turn .time {
+  width: 280px;
+  height: 42.99px;
+  color: rgb(18, 18, 18);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 400;
+  border: none;
+  border-bottom: 1px solid rgb(82, 72, 72);
+  background: none;
+}
+.pack8 .submit {
+  width: 222px;
+  height: 54.06px;
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 700;
+  background: rgb(156, 36, 130);
+  border: none;
+  margin-top: 70px;
+  margin-left: 400px;
+}
+
+.footer-line .media, .footer-line .footer-buttons, .footer-line .logo-pics, .footer-line, .pack9 .row2, .pack9 .turn2, .header-line, .header-line .logo-pics, .header-line .header-buttons, .pack1 .buttons1-pack1, .pack2 .cont1-pack2, .pack3 .pictures-row, .pack3 .words-row, .pack3 .texts-row, .pack4 .cont1-pack4, .pack4 .cont1-pack4 .contain1 .contain2, .pack5 .buttons-row, .pack5 .cont1-pack5, .pack6 .boxes2, .pack7 .cont1-pack7, .pack8, .pack8 .turn {
+  display: flex;
+  flex-direction: row;
+}
+
+.pack9 .text1-pack9 {
+  color: rgb(156, 36, 130);
+  font-family: Playfair Display;
+  font-size: 36px;
+  font-weight: 700;
+  margin-left: 700px;
+  margin-top: 100px;
+  width: 208px;
+  height: 58px;
+  margin-bottom: 30px;
+}
+.pack9 .turn2 {
+  margin-left: 90px;
+  margin-bottom: 112px;
+}
+.pack9 .turn2 .locat {
+  width: 791px;
+  height: 403px;
+  margin-right: 50px;
+}
+.pack9 .text2-pack9 {
+  width: 548px;
+  height: 76px;
+  font-family: Montserrat;
+  font-size: 26px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.pack9 .text3-pack9 {
+  font-family: Montserrat;
+  font-size: 26px;
+  font-weight: 400;
+  width: 323px;
+  height: 114px;
+  margin-bottom: 10px;
+}
+.pack9 .text4-pack9 {
+  width: 218px;
+  height: 38px;
+  color: rgb(18, 18, 18);
+  font-family: Montserrat;
+  font-size: 26px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.pack9 .row2 {
+  width: 130px;
+  height: 32.4px;
+  justify-content: space-between;
+}
+.pack9 .buttonss {
+  background: none;
+  border: none;
+}
+.pack9 .submit2 {
+  width: 222px;
+  height: 54.06px;
+  background: rgb(156, 36, 130);
+  border: none;
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 40px;
+}
+
+.footer-line .media, .footer-line .footer-buttons, .footer-line .logo-pics, .footer-line, .header-line, .header-line .logo-pics, .header-line .header-buttons, .pack1 .buttons1-pack1, .pack2 .cont1-pack2, .pack3 .pictures-row, .pack3 .words-row, .pack3 .texts-row, .pack4 .cont1-pack4, .pack4 .cont1-pack4 .contain1 .contain2, .pack5 .buttons-row, .pack5 .cont1-pack5, .pack6 .boxes2, .pack7 .cont1-pack7, .pack8, .pack8 .turn, .pack9 .turn2, .pack9 .row2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.footer-line {
+  padding-top: 30px;
+  padding-left: 90px;
+  padding-bottom: 30px;
+  background: rgb(156, 36, 130);
+}
+.footer-line .logo-pics {
+  padding-right: 158px;
+}
+.footer-line .logo-pics .logo-lilia {
+  width: 90px;
+  height: 49.99px;
+  background: none;
+  border: none;
+  margin-right: 10px;
+}
+.footer-line .logo-pics .logo-name {
+  width: 110px;
+  height: 50.99px;
+  background: none;
+  border: none;
+}
+.footer-line .footer-buttons {
+  padding-right: 159px;
+}
+.footer-line .footer-buttons .button-f1 {
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  width: 70px;
+  height: 26px;
+  padding-right: 63px;
+  text-decoration: none;
+}
+.footer-line .footer-buttons .button-f2 {
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  width: 72.99px;
+  height: 25.52px;
+  padding-right: 64px;
+  text-decoration: none;
+}
+.footer-line .footer-buttons .button-f3 {
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  width: 127.98px;
+  height: 25.52px;
+  padding-right: 64px;
+  text-decoration: none;
+}
+.footer-line .footer-buttons .button-f4 {
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  width: 67.99px;
+  height: 25.52px;
+  padding-right: 64px;
+  text-decoration: none;
+}
+.footer-line .footer-buttons .button-f5 {
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  width: 81.99px;
+  height: 25.52px;
+  padding-right: none;
+  text-decoration: none;
+}
+.footer-line .text1-footer {
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+}
+.footer-line .text2-footer {
+  color: rgb(245, 245, 245);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+}
+.footer-line .media {
+  margin-top: 10px;
+}
+.footer-line .media .medias {
+  width: 20px;
+  height: 20px;
+  background: none;
+  border: none;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1600px;
+  margin: 0 auto;
+  height: auto;
+  background: rgb(245, 245, 245);
+}

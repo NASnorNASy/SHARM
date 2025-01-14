@@ -1,0 +1,84 @@
+%flex1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.pack9 {
+    .text1-pack9 {
+        color: rgb(156, 36, 130);
+        font-family: Playfair Display;
+        font-size: 36px;
+        font-weight: 700;
+        margin-left: 700px;
+        margin-top: 100px;
+        width: 208px;
+        height: 58px;
+        margin-bottom: 30px;
+    }
+
+    .turn2 {
+        @extend %flex1;
+        margin-left: 90px;
+        margin-bottom: 112px;
+
+        .locat {
+            width: 791px;
+            height: 403px;
+            margin-right: 50px;
+
+        }
+    }
+
+    .text2-pack9 {
+        width: 548px;
+        height: 76px;
+        font-family: Montserrat;
+        font-size: 26px;
+        font-weight: 400;
+        margin-bottom: 10px;
+    }
+
+    .text3-pack9 {
+        font-family: Montserrat;
+        font-size: 26px;
+        font-weight: 400;
+        width: 323px;
+        height: 114px;
+        margin-bottom: 10px;
+    }
+
+    .text4-pack9 {
+        width: 218px;
+        height: 38px;
+        color: rgb(18, 18, 18);
+        font-family: Montserrat;
+        font-size: 26px;
+        font-weight: 400;
+        margin-bottom: 10px;
+    }
+
+    .row2 {
+        @extend %flex1;
+        width: 130px;
+        height: 32.4px;
+        justify-content: space-between;
+
+    }
+
+    .buttonss {
+        background: none;
+        border: none;
+    }
+
+    .submit2 {
+        width: 222px;
+        height: 54.06px;
+        background: rgb(156, 36, 130);
+        border: none;
+        color: rgb(245, 245, 245);
+        font-family: Montserrat;
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: 40px;
+    }
+}
